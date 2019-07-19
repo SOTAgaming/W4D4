@@ -1,0 +1,28 @@
+body {
+  font-family: Arial,sans-serif
+}
+h1{
+  font-size: 38px
+}
+h2{
+  font-size: 32px
+}
+.ingredients-list{
+  list-style: square inside
+}
+ol li {
+  list-style: lower-alpha
+}
+
+img {
+  width: 100px
+}
+
+li a {
+  text-underline-position: unset;
+  color: inherit
+}
+
+html  {
+  background-color: beige
+}
